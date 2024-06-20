@@ -1,8 +1,8 @@
 # README: Titanic Survival Prediction
 
-## Author: Hetanshi Acharya
+## Author: Kush Kalsi
 
-## Batch: July
+## Batch: June
 
 ## Domain: Data Science
 
